@@ -1,5 +1,5 @@
 ## iDEP
-iDEP is available [here](https://idepsite.wordpress.com/).
+iDEP is available [htt](http://ge-lab.org/).
 See detailed [documentation ](https://idepsite.wordpress.com/).
 
 ### Support or Contact
