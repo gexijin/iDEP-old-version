@@ -1,5 +1,6 @@
 ## iDEP
-iDEP is available [htt](http://ge-lab.org/).
+iDEP is a Shiny app for analyzing gene expression data. It is available at [http://ge-lab.org/](http://ge-lab.org/).
+
 See detailed [documentation ](https://idepsite.wordpress.com/).
 
 ### Support or Contact
